@@ -1,6 +1,6 @@
 # Spring Boot REST API
 
-A backend REST API application developed using Spring Boot with layered architecture, JPA, Hibernate, exception handling, and MySQL integration.
+A backend REST API application developed using Spring Boot with layered architecture, JPA, Hibernate, exception handling, and MySQL integration. 
 
 ## Features
 
